@@ -1,0 +1,7 @@
+server:
+  servlet:
+    context-path: /
+
+game:
+  setting:
+    board-dimension: ${BOARD_DIMENSION:3}
